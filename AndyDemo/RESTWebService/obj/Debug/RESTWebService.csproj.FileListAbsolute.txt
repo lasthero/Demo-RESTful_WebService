@@ -1,0 +1,8 @@
+C:\Users\achou\documents\visual studio 2010\Projects\AndyDemo\RESTWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\achou\documents\visual studio 2010\Projects\AndyDemo\RESTWebService\bin\Debug\RESTWebService.dll
+C:\Users\achou\documents\visual studio 2010\Projects\AndyDemo\RESTWebService\bin\Debug\RESTWebService.pdb
+C:\Users\achou\documents\visual studio 2010\Projects\AndyDemo\RESTWebService\obj\Debug\RESTWebService.dll
+C:\Users\achou\documents\visual studio 2010\Projects\AndyDemo\RESTWebService\obj\Debug\RESTWebService.pdb
+C:\Users\achou\documents\visual studio 2010\Projects\AndyDemo\RESTWebService\bin\Debug\Company.dll
+C:\Users\achou\documents\visual studio 2010\Projects\AndyDemo\RESTWebService\bin\Debug\Company.pdb
+C:\Users\achou\documents\visual studio 2010\Projects\AndyDemo\RESTWebService\bin\Debug\RESTWebService.dll.config

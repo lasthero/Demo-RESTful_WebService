@@ -1,0 +1,5 @@
+c:\users\achou\documents\visual studio 2010\Projects\AndyDemo\AndyDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\achou\documents\visual studio 2010\Projects\AndyDemo\AndyDemo\bin\Debug\AndyDemo.exe
+c:\users\achou\documents\visual studio 2010\Projects\AndyDemo\AndyDemo\bin\Debug\AndyDemo.pdb
+c:\users\achou\documents\visual studio 2010\Projects\AndyDemo\AndyDemo\obj\x86\Debug\AndyDemo.exe
+c:\users\achou\documents\visual studio 2010\Projects\AndyDemo\AndyDemo\obj\x86\Debug\AndyDemo.pdb
